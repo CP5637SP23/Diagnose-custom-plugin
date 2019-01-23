@@ -19,7 +19,9 @@ This code of conduct applies both within project when an individual is represent
 
 # Authors and acknowledgment
 The plugin is made with all inspiration from several other plugins by Prashanth Reddy Bhagirthi
+
 # License
 Our project is licensed under Public license and open to use for further development.
-Project status
+
+# Project status
 The plugin is at an initial stage.
